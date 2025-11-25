@@ -1,0 +1,142 @@
+[
+  {
+    "id": "dest-1",
+    "name": "Maldives Escape",
+    "region": "Asia",
+    "shortDescription": "White sandy beaches & turquoise waters.",
+    "longDescription": "A 7-day luxury escape to private islands, snorkeling, and sunset cruises.",
+    "price": 2199,
+    "duration": 7,
+    "rating": 4.8,
+    "images": [
+      "assets/images/lake.jpeg",
+      "assets/images/header.jpeg"
+    ],
+    "tags": [
+      "beach",
+      "luxury"
+    ]
+  },
+  {
+    "id": "dest-2",
+    "name": "Alpine Adventure",
+    "region": "Europe",
+    "shortDescription": "Hiking, cable cars, alpine lakes.",
+    "longDescription": "An adventurous 5-day trip through mountain villages with guided hikes.",
+    "price": 899,
+    "duration": 5,
+    "rating": 4.6,
+    "images": [
+      "assets/images/forest1.jpeg",
+      "assets/images/river.jpeg"
+    ],
+    "tags": [
+      "mountain",
+      "adventure"
+    ]
+  },
+  {
+    "id": "dest-3",
+    "name": "Tokyo Highlights",
+    "region": "Asia",
+    "shortDescription": "City lights, temples, and cuisine.",
+    "longDescription": "A 6-day cultural and culinary tour covering markets, shrines, and nightlife.",
+    "price": 1299,
+    "duration": 6,
+    "rating": 4.7,
+    "images": [
+      "assets/images/purplemountain.jpeg"
+    ],
+    "tags": [
+      "city",
+      "culture"
+    ]
+  },
+  {
+    "id": "dest-4",
+    "name": "Saharan Sunset",
+    "region": "Africa",
+    "shortDescription": "Desert dunes & starry nights.",
+    "longDescription": "3-day desert excursion with camel treks and campfire dinners under the stars.",
+    "price": 599,
+    "duration": 3,
+    "rating": 4.5,
+    "images": [
+      "assets/images/lake.jpeg"
+    ],
+    "tags": [
+      "desert",
+      "adventure"
+    ]
+  },
+  {
+    "id": "dest-5",
+    "name": "Santorini Sunsets",
+    "region": "Europe",
+    "shortDescription": "Clifftop views and iconic blue domes.",
+    "longDescription": "A romantic 4-day stay in Santorini with caldera views, wine tasting, and sailing.",
+    "price": 1099,
+    "duration": 4,
+    "rating": 4.9,
+    "images": [
+      "assets/images/desert.jpeg",
+      "assets/images/header.jpeg"
+    ],
+    "tags": [
+      "island",
+      "romance"
+    ]
+  },
+  {
+    "id": "dest-6",
+    "name": "Patagonia Trek",
+    "region": "South America",
+    "shortDescription": "Glaciers, windswept peaks, and epic treks.",
+    "longDescription": "An 8-day guided trek across iconic trails with expert local guides and camping under the stars.",
+    "price": 2399,
+    "duration": 8,
+    "rating": 4.8,
+    "images": [
+      "assets/images/forest1.jpeg"
+    ],
+    "tags": [
+      "trek",
+      "adventure"
+    ]
+  },
+  {
+    "id": "dest-7",
+    "name": "New York City Break",
+    "region": "North America",
+    "shortDescription": "Broadway, skyline, food scene.",
+    "longDescription": "A 5-day city break covering museums, shows, iconic neighborhoods, and culinary highlights.",
+    "price": 999,
+    "duration": 5,
+    "rating": 4.6,
+    "images": [
+      "assets/images/purplemountain.jpeg"
+    ],
+    "tags": [
+      "city",
+      "culture"
+    ]
+  },
+  {
+    "id": "dest-8",
+    "name": "Bali Wellness Retreat",
+    "region": "Asia",
+    "shortDescription": "Yoga, rice terraces, and spa resets.",
+    "longDescription": "A 6-day retreat focusing on wellness, yoga sessions, spa treatments, and local culture.",
+    "price": 799,
+    "duration": 6,
+    "rating": 4.7,
+    "images": [
+      "assets/images/lake.jpeg",
+      "assets/images/river.jpeg"
+    ],
+    "tags": [
+      "wellness",
+      "beach"
+    ]
+  }
+]

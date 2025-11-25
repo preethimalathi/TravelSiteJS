@@ -1,0 +1,23 @@
+:root{
+  --primary:#0b6fb1;
+  --accent:#ff7a00;
+  --muted:#6b7280;
+  --radius:12px;
+  --gap:1rem;
+}
+*{box-sizing:border-box}
+body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;line-height:1.5;color:#111}
+.header-hero{
+  background-image: linear-gradient(180deg, rgba(11,111,177,0.55), rgba(11,111,177,0.25)), url('../images/header.jpeg');
+  background-size:cover; background-position:center; color:white; padding:120px 0;
+}
+.card-custom{border-radius:var(--radius);box-shadow:0 6px 18px rgba(11,111,177,0.08);overflow:hidden}
+.price-badge{background:var(--accent);color:white;padding:6px 10px;border-radius:8px;font-weight:600}
+.fab{position:fixed;right:18px;bottom:18px;background:var(--primary);color:white;border-radius:999px;padding:14px 18px;box-shadow:0 6px 16px rgba(0,0,0,0.2);cursor:pointer;z-index:1050}
+.fade-in{opacity:0;transform:translateY(12px);transition:all .6s ease}
+.fade-in.visible{opacity:1;transform:none}
+.counter{font-size:32px;font-weight:700;color:var(--primary)}
+footer{padding:40px 0;background:#f8fafc;margin-top:40px}
+a.logo{font-weight:800;color:var(--primary)}
+:focus{outline:3px solid rgba(11,111,177,0.18);outline-offset:3px}
+@media print{.no-print{display:none}}
